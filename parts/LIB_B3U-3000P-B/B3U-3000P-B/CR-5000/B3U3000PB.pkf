@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "B3U3000PB"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "B3U3000PB")
+        (spec "default")
+    )
+)

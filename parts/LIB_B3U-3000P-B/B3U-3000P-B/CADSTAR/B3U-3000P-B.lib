@@ -1,0 +1,18 @@
+.B3U-3000P-B :1 ;OMRON - B3U-3000P-B - TACTILE SWITCH, SIDE ACTUATED, SMD
+B3U3000PB
+*STM S
+*NGS
+*PLB 1="COM" 2="N.O."
+*MXP 3
+*DFN B3U-3000P-B
+~!Manufacturer_Name (OMRON Electronics)
+~!Manufacturer_Part_Number (B3U-3000P-B)
+~!Mouser Part Number (653-B3U-3000P-B)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3U-3000P-B?qs=AO7BQMcsEu4JAdtnbsGArA%3D%3D)
+~!Arrow Part Number (B3U-3000P-B)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/b3u-3000p-b/omron?utm_currency=USD&region=nac)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/B3U-3000P-B.pdf)
+~!Height (1.35mm)
+~!3D_Model (B3U-3000P-B)
+B3U-3000P-B
+1.1!U 2.1!U 

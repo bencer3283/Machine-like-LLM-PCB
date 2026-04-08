@@ -1,0 +1,9 @@
+Manufacturer=OMRON Electronics
+PartNumber=B3U-3000P-B
+PartCategory=Switch
+PackageCategory=Other
+PinCount=2
+Version=1.1
+Released=2019-04-29 11:35:44
+Downloaded=2026-04-08 19:08:02
+3D=Y

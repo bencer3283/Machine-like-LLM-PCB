@@ -1,0 +1,131 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "B3U-3000P-B"
+   (description "OMRON - B3U-3000P-B - TACTILE SWITCH, SIDE ACTUATED, SMD")
+   (family "SWI")
+   (package "B3U3000PB")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/2/B3U-3000P-B.pdf")
+   (attribute "Geometry.Height" "1.35mm")
+   (attribute "Manufacturer_Name" "OMRON Electronics")
+   (attribute "Manufacturer_Part_Number" "B3U-3000P-B")
+   (attribute "Mouser Part Number" "653-B3U-3000P-B")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3U-3000P-B?qs=AO7BQMcsEu4JAdtnbsGArA%3D%3D")
+   (attribute "Arrow Part Number" "B3U-3000P-B")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/b3u-3000p-b/omron?utm_currency=USD&region=nac")
+   (gate
+    (symbol "B3U-3000P-B")
+    (pin "COM" 1 PS)
+    (pin "N.O." 2 PS)
+   )
+  )
+  (symbol "B3U-3000P-B"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "B3U3000PB"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.5 1.25)
+      (pt 1.5 1.25)
+      (pt 1.5 -1.25)
+      (pt -1.5 -1.25)
+      (pt -1.5 1.25))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.1 2.95)
+      (pt 3.545 2.95)
+      (pt 3.545 -2.25)
+      (pt -3.1 -2.25)
+      (pt -3.1 2.95))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 2.345 0)
+      (arc (pt 2.345 0.000) (pt 2.345 -0.100) (pt 2.545 0.100) (start 180.0) (sweep -180.0))
+      (pt 2.545 0)
+      (arc (pt 2.545 0.000) (pt 2.345 -0.100) (pt 2.545 0.100) (start 180.0) (sweep .0))
+      (pt 2.345 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.5 -1.25)
+      (pt 1.5 -1.25))))
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.85 1.25)
+      (pt -0.85 1.95)
+      (pt 0.85 1.95)
+      (pt 0.85 1.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.5 1.25)
+      (pt -0.85 1.25)
+      (pt -0.85 1.95)
+      (pt 0.85 1.95)
+      (pt 0.85 1.25)
+      (pt 1.5 1.25))))
+   (leg 1 (pt 1.700 0.000) (padstack 0))
+   (leg 2 (pt -1.700 0.000) (padstack 0))
+   (leg 3 (pt 0.000 0.000) (padstack 3))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.800 1.700 0 0 90.000))
+   )
+   (padstack 3
+    (hole 0.85)
+    (plated false)
+    (pad (layer TCOP) (round 0.425))
+    (pad (layer INNER) (round 0.425))
+    (pad (layer BCOP) (round 0.425))
+   )
+   (model "B3U-3000P-B.stp"
+    (euler 90 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

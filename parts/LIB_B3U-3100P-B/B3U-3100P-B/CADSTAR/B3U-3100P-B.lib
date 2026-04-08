@@ -1,0 +1,18 @@
+.B3U-3100P-B :1 ;Ultra-small Tactile Switch (SMT), With Boss, With Ground Terminal, Height 3.2mm, OF:1.59N
+B3U-3100P-B
+*STM S
+*NGS
+*PLB 1="1" 2="2"
+*MXP 3
+*DFN B3U-3100P-B
+~!Manufacturer_Name (OMRON Electronics)
+~!Manufacturer_Part_Number (B3U-3100P-B)
+~!Mouser Part Number (653-B3U-3100P-B)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3U-3100P-B?qs=q8ECNkb1%2FvNLWRjRd0Yozg%3D%3D)
+~!Arrow Part Number (B3U-3100P-B)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/b3u-3100p-b/omron?utm_currency=USD&region=nac)
+~!Link Datasheet (https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/A162-E1.pdf)
+~!Height (-)
+~!3D_Model (B3U-3100P-B)
+B3U-3100P-B
+1.1!U 2.1!U 

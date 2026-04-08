@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "B3U-3000P-B"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-04-29-11:35:44)
+    (mountForm default
+        (footprintRef "B3U3000PB")
+        (spec "System")
+    )
+)

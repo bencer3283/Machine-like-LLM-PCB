@@ -1,0 +1,67 @@
+(Japanese_coding: sjis)
+(function "ECS_761316"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-05-27-10:26:01)
+    (utime 2026-01-12-15:47:12)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "B3U-3100P-B")
+)
+
+
+(pinAssign "ECS_761316"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-05-27-10:26:01)
+    (utime 2026-01-12-15:47:12)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_761316")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "B3U-3100P-B")
+)
+
+
+(part "B3U-3100P-B"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-05-27-10:26:01)
+    (utime 2026-01-12-15:47:12)
+    (packageRef "B3U-3100P-B")
+    (pinAssignRef "ECS_761316")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "S")
+    (property "description" "Ultra-small Tactile Switch (SMT), With Boss, With Ground Terminal, Height 3.2mm, OF:1.59N")
+    (property "Manufacturer_Name" "OMRON Electronics")
+    (property "Manufacturer_Part_Number" "B3U-3100P-B")
+    (property "Mouser_Part_Number" "653-B3U-3100P-B")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3U-3100P-B?qs=q8ECNkb1%2FvNLWRjRd0Yozg%3D%3D")
+    (property "Arrow_Part_Number" "B3U-3100P-B")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/b3u-3100p-b/omron?utm_currency=USD&region=nac")
+    (property "Datasheet_Link" "https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/A162-E1.pdf")
+)
+
+

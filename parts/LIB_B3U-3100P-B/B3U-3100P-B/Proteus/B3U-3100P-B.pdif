@@ -1,0 +1,105 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "B3U-3100P-B"
+   (description "Ultra-small Tactile Switch (SMT), With Boss, With Ground Terminal, Height 3.2mm, OF:1.59N")
+   (family "SWI")
+   (package "B3U-3100P-B")
+   (attribute "Datasheet Link" "https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/A162-E1.pdf")
+   (attribute "Manufacturer_Name" "OMRON Electronics")
+   (attribute "Manufacturer_Part_Number" "B3U-3100P-B")
+   (attribute "Mouser Part Number" "653-B3U-3100P-B")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3U-3100P-B?qs=q8ECNkb1%2FvNLWRjRd0Yozg%3D%3D")
+   (attribute "Arrow Part Number" "B3U-3100P-B")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/b3u-3100p-b/omron?utm_currency=USD&region=nac")
+   (gate
+    (symbol "B3U-3100P-B")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "B3U-3100P-B"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -100) (pt 200 -100) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "B3U-3100P-B"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed true)
+      (pt -1.5 1.95)
+      (pt 1.5 1.95)
+      (pt 1.5 -1.25)
+      (pt -1.5 -1.25)
+      (pt -1.5 1.95))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt -1.5 1.95)
+      (pt 1.5 1.95))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt 1.5 -1.25)
+      (pt -1.5 -1.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (circle
+      (pt 2.485 0.01) (pt 2.593 0.01)
+     )
+    )
+   )
+   (leg 1 (pt 1.691 0.005) (padstack 0))
+   (leg 2 (pt -1.709 0.005) (padstack 0))
+   (leg 3 (pt 0 0) (padstack 3))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.8 1.7 0 0 90))
+   )
+   (padstack 3
+    (hole 0.75)
+    (plated true)
+    (pad (layer TCOP) (round 1.25))
+    (pad (layer INNER) (round 1.25))
+    (pad (layer BCOP) (round 1.25))
+   )
+   (model "B3U-3100P-B.stp"
+    (euler 90 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)
