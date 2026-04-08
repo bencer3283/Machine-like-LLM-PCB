@@ -1,0 +1,18 @@
+.BAT54KFILM :1 ;BAT54KFILM, Schottky Diode,  0.3A max, 40V 5ns, 2-Pin, SOD-523
+SODFL1608X70N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN BAT54KFILM
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (BAT54KFILM)
+~!Mouser Part Number (511-BAT54KFILM)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/BAT54KFILM?qs=jZi1jxfVU95Y9ce6l3OT%252BA%3D%3D)
+~!Arrow Part Number (BAT54KFILM)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/bat54kfilm/stmicroelectronics?region=europe)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/bat54.pdf)
+~!Height (0.7mm)
+~!3D_Model (BAT54KFILM)
+BAT54KFILM
+1.1!U 2.1!U 

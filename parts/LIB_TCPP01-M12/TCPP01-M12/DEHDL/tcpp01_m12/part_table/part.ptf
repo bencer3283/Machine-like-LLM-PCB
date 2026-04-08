@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TCPP01_M12'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "TCPP01-M12" (!) = "", "QFN50P300X300X100-13N-D", "Quad Flat No-Lead", "511-TCPP01-M12", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/TCPP01-M12?qs=%252B6g0mu59x7KCafIwapwG2A%3D%3D", "TCPP01-M12", "https://www.arrow.com/en/products/tcpp01-m12/stmicroelectronics.html?utm_currency=USD&region=europe", "USB Type-C and power delivery protection for sink application", "https://www.st.com/resource/en/datasheet/tcpp01-m12.pdf", "1 mm"
+END_PART
+
+END.

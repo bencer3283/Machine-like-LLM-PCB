@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32U575RGT3
+D Ultra-low-power Arm Cortex-M33 32-bit MCU+TrustZone+FPU, 240 DMIPS, up to 2 MB Flash memory, 786 KB SRAM
+K
+F https://www.st.com/resource/en/datasheet/stm32u575ag.pdf
+$ENDCMP
+#
+#End Doc Library

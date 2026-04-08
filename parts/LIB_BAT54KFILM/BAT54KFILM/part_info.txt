@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=BAT54KFILM
+PartCategory=Diode
+PackageCategory=Small Outline Diode Flat Lead
+PinCount=2
+Version=2.1
+Released=2016-03-15 13:50:33
+Downloaded=2026-04-07 22:16:38
+3D=Y
