@@ -1,0 +1,18 @@
+.TMC6300-LA :1 ;Highly Efficient Low Voltage, Zero Standby Current Driver for 3-Phase BLDC/PMSM Motors up to 2A peak, Triple Half-Bridge with separate HS and LS control signals
+QFN40P300X300X90-21N
+*STM IC
+*NGS
+*PLB 1="W" 2="VCP" 3="UH" 4="VH" 5="WH" 6="UL" 7="WL" 8="GND_1" 9="GND_2" 10="VL" 11="VIO/NSTDBY" 12="DIAG" 13="1.8VOUT" 14="GND_3" 15="U" 16="BRUV" 17="V" 18="VS" 19="N.C." 20="BRW" 21="EP"
+*MXP 21
+*DFN TMC6300-LA
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (TMC6300-LA)
+~!Mouser Part Number (700-TMC6300-LA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ADI-Trinamic/TMC6300-LA?qs=QNEnbhJQKvYIagO3WUG%252BYg%3D%3D)
+~!Arrow Part Number (TMC6300-LA)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tmc6300-la/analog-devices?region=nac)
+~!Link Datasheet (https://www.analog.com/TMC6300/datasheet)
+~!Height (0.9mm)
+~!3D_Model (TMC6300-LA)
+TMC6300-LA
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 

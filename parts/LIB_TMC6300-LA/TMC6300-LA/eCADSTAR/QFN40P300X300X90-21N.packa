@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TMC6300-LA"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-03-22-14:00:08)
+    (mountForm default
+        (footprintRef "QFN40P300X300X90-21N")
+        (spec "System")
+    )
+)

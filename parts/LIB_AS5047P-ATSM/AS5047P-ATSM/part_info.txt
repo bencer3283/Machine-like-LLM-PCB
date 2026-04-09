@@ -1,0 +1,9 @@
+Manufacturer=ams OSRAM
+PartNumber=AS5047P-ATSM
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=14
+Version=2.1
+Released=2017-09-10 09:28:23
+Downloaded=2026-04-08 22:08:49
+3D=Y

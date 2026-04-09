@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AS5047P_ATSM'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ams OSRAM", "AS5047P-ATSM" (!) = "", "SOP65P640X120-14N", "Small Outline Packages", "985-AS5047P-ATSM", "https://www.mouser.co.uk/ProductDetail/ams-OSRAM/AS5047P-ATSM?qs=cGEy3R83DS8fzNOVLHtOgg%3D%3D", "Board Mount Hall Effect / Magnetic Sensors 14 bit core res Up to 28krpm", "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-7/120640.pdf", "1.2 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=TMC6300-LA
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=21
+Version=5.1
+Released=2022-04-04 02:40:00
+Downloaded=2026-04-08 23:06:51
+3D=Y

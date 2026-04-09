@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TMC6300_LA'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "TMC6300-LA" (!) = "", "QFN40P300X300X90-21N", "Quad Flat No-Lead", "700-TMC6300-LA", "https://www.mouser.co.uk/ProductDetail/ADI-Trinamic/TMC6300-LA?qs=QNEnbhJQKvYIagO3WUG%252BYg%3D%3D", "TMC6300-LA", "https://www.arrow.com/en/products/tmc6300-la/analog-devices?region=nac", "Highly Efficient Low Voltage, Zero Standby Current Driver for 3-Phase BLDC/PMSM Motors up to 2A peak, Triple Half-Bridge with separate HS and LS control signals", "https://www.analog.com/TMC6300/datasheet", "0.9 mm"
+END_PART
+
+END.
