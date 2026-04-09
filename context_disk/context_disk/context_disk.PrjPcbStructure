@@ -1,2 +1,4 @@
-Record=TopLevelDocument|FileName=bldc.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=bldc.SchDoc|FileName=power.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=sheet1|SchDesignator=sheet1|FileName=bldc.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=bldc.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=sheet2|SchDesignator=sheet2|FileName=power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=main.SchDoc|FileName=tof.SchDoc|SheetNumber=4
