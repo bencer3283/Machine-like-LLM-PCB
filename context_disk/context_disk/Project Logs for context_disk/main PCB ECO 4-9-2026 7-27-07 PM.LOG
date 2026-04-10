@@ -1,0 +1,31 @@
+Added Component: Designator=LED1(ws2816a-2121)
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WS2816A-2121"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(ws2816a-2121)
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WS2816A-2121"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(ws2816a-2121)
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WS2816A-2121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=3V3 Pin=LED1-3
+Added Pin To Net: NetName=GND Pin=LED1-6
+Added Pin To Net: NetName=3V3 Pin=LED2-3
+Added Pin To Net: NetName=GND Pin=LED2-6
+Added Pin To Net: NetName=3V3 Pin=LED3-3
+Added Pin To Net: NetName=GND Pin=LED3-6
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=U0-61
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED1_4 Pin=LED1-4
+Added Pin To Net: NetName=NetLED1_4 Pin=LED2-2
+Added Net: Name=NetLED1_4
+Added Pin To Net: NetName=NetLED1_5 Pin=LED1-5
+Added Pin To Net: NetName=NetLED1_5 Pin=LED2-1
+Added Net: Name=NetLED1_5
+Added Pin To Net: NetName=NetLED2_4 Pin=LED2-4
+Added Pin To Net: NetName=NetLED2_4 Pin=LED3-2
+Added Net: Name=NetLED2_4
+Added Pin To Net: NetName=NetLED2_5 Pin=LED2-5
+Added Pin To Net: NetName=NetLED2_5 Pin=LED3-1
+Added Net: Name=NetLED2_5
+Added Member To Class: ClassName=POWER Member=Component LED1 WS2816A-2121
+Added Member To Class: ClassName=POWER Member=Component LED2 WS2816A-2121
+Added Member To Class: ClassName=POWER Member=Component LED3 WS2816A-2121
