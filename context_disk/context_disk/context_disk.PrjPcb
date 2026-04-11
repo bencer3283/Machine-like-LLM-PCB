@@ -540,7 +540,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QROKUAED
 
 [Document30]
 DocumentPath=..\..\parts\ul_TPSM84338RCJR\Altium\TPSM84338RCJR\TPSM84338RCJR.SchLib
