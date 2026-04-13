@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=BLDC|SchDesignator=BLDC|FileName=bldc.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=bldc.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=TOF1|SchDesignator=TOF1|FileName=tof.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=tof.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=TOF2|SchDesignator=TOF2|FileName=tof.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=tof.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
