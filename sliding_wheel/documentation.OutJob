@@ -133,12 +133,12 @@ OutputEnabled3_OutputMedium4=0
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.04|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration3_Name1=OutputConfigurationParameter1
-Configuration3_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=53937008|ViewY=19291337|LookAtX=28543308|LookAtY=13582676|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=1.29781021594672E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ImageOutputType=1|ViewConfig= |DocumentPath=C:\Mac\Home\Documents\Fall 25\Thesis\hci\pcb\context_disk\context_disk\main.PcbDoc
+Configuration3_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=53937008|ViewY=19291337|LookAtX=28543308|LookAtY=13582676|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=4.50896349311775E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ImageOutputType=1|ViewConfig= |DocumentPath=C:\Mac\Home\Documents\Fall 25\Thesis\hci\pcb\sliding_wheel\main.PcbDoc
 
 [PublishSettings]
 OutputFilePath2=Project Outputs for Free Documents\documentation.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for context_disk
+OutputBasePath2=Project Outputs for sliding_wheel
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -165,7 +165,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for context_disk
+OutputBasePath3=Project Outputs for sliding_wheel
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -178,7 +178,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for context_disk
+OutputBasePath4=Project Outputs for sliding_wheel
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
