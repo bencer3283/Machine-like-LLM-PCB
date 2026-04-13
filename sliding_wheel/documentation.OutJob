@@ -136,7 +136,7 @@ Configuration3_Name1=OutputConfigurationParameter1
 Configuration3_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=53937008|ViewY=19291337|LookAtX=28543308|LookAtY=13582676|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=4.50896349311775E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ImageOutputType=1|ViewConfig= |DocumentPath=C:\Mac\Home\Documents\Fall 25\Thesis\hci\pcb\sliding_wheel\main.PcbDoc
 
 [PublishSettings]
-OutputFilePath2=Project Outputs for Free Documents\documentation.PDF
+OutputFilePath2=C:\Mac\Home\Documents\Fall 25\Thesis\hci\pcb\sliding_wheel\Project Outputs for sliding_wheel\documentation.PDF
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for sliding_wheel
 OutputPathMedia2=
@@ -215,7 +215,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=Project Outputs for Free Documents\documentation.PDF
+RelativeOutputPath2=C:\Mac\Home\Documents\Fall 25\Thesis\hci\pcb\sliding_wheel\Project Outputs for sliding_wheel\documentation.PDF
 OpenOutputs2=0
 RelativeOutputPath3=
 OpenOutputs3=1
