@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Mac\Home\Documents\Fall 25\Thesis\hci\pcb\context_disk\context_disk\main.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=main-roundholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=main-slotholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=main-roundholes-nonplated.txt|DrillLayers=gtl,gp1,gp2,gbl

@@ -1,0 +1,14 @@
+Altium Designer Pick and Place Locations
+C:\Mac\Home\Documents\Fall 25\Thesis\hci\pcb\pot_carrier\Project Outputs for pot_carrier\pot_carrier\Pick Place\Pick Place for main.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       13/04/26
+Time:       00:26
+Revision:   b676498e69ac4c0269bdc1f24ad163116235c2dd
+Variant:    No variations
+Units used: mm
+
+"Designator","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Manufacturer_Part_Number"
+"J1","TopLayer","CONN_532610001-SD_03_MOL","4.1215","9.5250","90","532610371"

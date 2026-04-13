@@ -81,7 +81,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AMSFJVHZ
 
 [Document3]
 DocumentPath=..\parts\LIB_BAT54KFILM\BAT54KFILM\Altium\BAT54KFILM.SchLib
@@ -98,7 +98,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BSZMSSJX
 
 [Document4]
 DocumentPath=..\parts\LIB_BAT54KFILM\BAT54KFILM\Altium\SODFL1608X70N.PcbLib
@@ -183,7 +183,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LPXVSJEX
 
 [Document9]
 DocumentPath=..\parts\stlinkbtb\009159010061911.PcbLib
@@ -217,7 +217,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AORMSOXH
 
 [Document11]
 DocumentPath=..\parts\ul_TPSM84338RCJR\Altium\TPSM84338RCJR\TPSM84338RCJR.PcbLib
@@ -251,7 +251,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VWAYRATK
 
 [Document13]
 DocumentPath=..\parts\passives\CAPC1005X55N.PcbLib
@@ -353,7 +353,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CFSBMYVW
 
 [Document19]
 DocumentPath=..\parts\passives\MSASL21GBB5476MTNA01 (1)\MSASL21GBB5476MTNA01\CAPC2012X145N.PcbLib
@@ -387,7 +387,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JAZAULIE
 
 [Document21]
 DocumentPath=..\parts\LIB_B3U-3000P-B\B3U-3000P-B\Altium\B3U3000PB.PcbLib
@@ -421,7 +421,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BMBKJHZZ
 
 [Document23]
 DocumentPath=power.SchDoc
@@ -506,7 +506,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CLNHCCMW
 
 [Document28]
 DocumentPath=..\parts\ul_MP6540GU-P\Altium\MP6540GU-P\MP6540GU-P.PcbLib
@@ -642,7 +642,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QXFLFODF
 
 [Document36]
 DocumentPath=main.SchDoc
@@ -731,6 +731,23 @@ DocumentUniqueId=
 
 [Document41]
 DocumentPath=documentation.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document42]
+DocumentPath=jlc.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
