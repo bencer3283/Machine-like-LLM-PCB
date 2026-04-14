@@ -4,9 +4,9 @@ C:\Mac\Home\Documents\Fall 25\Thesis\hci\pcb\sliding_wheel\Project Outputs for s
 ========================================================================================================================
 File Design Information:
 
-Date:       13/04/26
-Time:       00:48
-Revision:   b676498e69ac4c0269bdc1f24ad163116235c2dd
+Date:       14/04/26
+Time:       00:05
+Revision:   47124e61a9e4fb4b1e7b7af93ad2bf2cb4e75e06
 Variant:    No variations
 Units used: mm
 
@@ -31,9 +31,9 @@ Units used: mm
 "C17","TopLayer","RC0603N_YAG","32.4000","38.7000","0","EMK107B7105KA-T"
 "C16","TopLayer","CAPC3225X270N","96.8000","33.1000","270","MSAST32MSB7226KPNB25"
 "U0","TopLayer","QFP50P1200X1200X160-64N","120.1241","41.3287","315","STM32U575RGT3"
-"LED3","TopLayer","ws2816a-2121","126.0300","55.2000","0","WS2816A-2121"
-"LED2","TopLayer","ws2816a-2121","122.6700","55.2000","0","WS2816A-2121"
-"LED1","TopLayer","ws2816a-2121","119.1300","55.2000","0","WS2816A-2121"
+"LED3","TopLayer","WS2816A-2121","126.0300","55.2000","0","WS2816A-2121"
+"LED2","TopLayer","WS2816A-2121","122.6700","55.2000","0","WS2816A-2121"
+"LED1","TopLayer","WS2816A-2121","119.1300","55.2000","0","WS2816A-2121"
 "U6#2","TopLayer","LGA12_STM","50.2000","16.8000","90","VL53L0CXV0DH/1"
 "U6#1","TopLayer","LGA12_STM","8.2000","40.9520","90","VL53L0CXV0DH/1"
 "R9#2","TopLayer","RC0603N_YAG","51.0890","20.8640","270","RT0603BRD0710KL"
@@ -42,10 +42,10 @@ Units used: mm
 "R8#1","TopLayer","RC0603N_YAG","7.3110","45.0160","270","RT0603BRD0710KL"
 "R7","TopLayer","RC0603N_YAG","124.7000","49.1000","270","RC0603FR-071K5L"
 "R6","TopLayer","RC0603N_YAG","126.7000","47.5000","180","RC0603FR-071K5L"
-"C23#2","TopLayer","CAPC1005X55N","49.4380","13.2440","90","UMK105B7104KVHF"
-"C23#1","TopLayer","CAPC1005X55N","7.4380","37.3960","90","UMK105B7104KVHF"
-"C22#2","TopLayer","CAPC1005X55N","51.0890","13.2440","90","GRM155R60J475M"
-"C22#1","TopLayer","CAPC1005X55N","9.0890","37.3960","90","GRM155R60J475M"
+"C23#2","TopLayer","CAPC1005X55N","48.2000","15.5000","270","UMK105B7104KVHF"
+"C23#1","TopLayer","CAPC1005X55N","6.3000","39.6000","270","UMK105B7104KVHF"
+"C22#2","TopLayer","CAPC1005X55N","47.0000","15.5000","270","GRM155R60J475M"
+"C22#1","TopLayer","CAPC1005X55N","5.2000","39.6000","270","GRM155R60J475M"
 "U2","TopLayer","RCJ0009A-MFG","115.1704","22.3460","0","TPSM84338RCJR"
 "U1","TopLayer","QFN50P300X300X100-13N-D","124.8824","24.3990","0","TCPP01-M12"
 "SW1","TopLayer","B3U3000PB","136.5979","55.0021","315","B3U-3100P-B"
