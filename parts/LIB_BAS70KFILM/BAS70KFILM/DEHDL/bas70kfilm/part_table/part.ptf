@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BAS70KFILM'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "BAS70KFILM" (!) = "", "SODFL1608X70N", "Small Outline Diode Flat Lead", "511-BAS70KFILM", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/BAS70KFILM?qs=jZi1jxfVU95GtldeDT2NyQ%3D%3D", "BAS70KFILM", "https://www.arrow.com/en/products/bas70kfilm/stmicroelectronics?region=nac", "STMicroelectronics BAS70KFILM, SMT Schottky Diode, 70V 70mA, 2-Pin SOD-523", "https://www.st.com/resource/en/datasheet/bas70.pdf", "0.7 mm"
+END_PART
+
+END.

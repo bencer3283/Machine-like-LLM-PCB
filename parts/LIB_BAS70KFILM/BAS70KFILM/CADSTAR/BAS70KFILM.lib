@@ -1,0 +1,18 @@
+.BAS70KFILM :1 ;STMicroelectronics BAS70KFILM, SMT Schottky Diode, 70V 70mA, 2-Pin SOD-523
+SODFL1608X70N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN BAS70KFILM
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (BAS70KFILM)
+~!Mouser Part Number (511-BAS70KFILM)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/BAS70KFILM?qs=jZi1jxfVU95GtldeDT2NyQ%3D%3D)
+~!Arrow Part Number (BAS70KFILM)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/bas70kfilm/stmicroelectronics?region=nac)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/bas70.pdf)
+~!Height (0.7mm)
+~!3D_Model (BAS70KFILM)
+BAS70KFILM
+1.1!U 2.1!U 

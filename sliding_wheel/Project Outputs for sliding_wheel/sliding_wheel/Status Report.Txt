@@ -1,10 +1,10 @@
-Output: Generates pick and place files
-Type  : Pick Place
+Output: Export STEP
+Type  : ExportSTEP
 From  : Variant [[No Variations]] of PCB Document [main.PcbDoc]
-   Generated File[Pick Place for main.csv]
+   Generated File[main.step]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 12:05:39 AM On 4/14/2026
+Finished Output Generation At 1:19:04 PM On 4/14/2026

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAS70KFILM
+D STMicroelectronics BAS70KFILM, SMT Schottky Diode, 70V 70mA, 2-Pin SOD-523
+K
+F https://www.st.com/resource/en/datasheet/bas70.pdf
+$ENDCMP
+#
+#End Doc Library

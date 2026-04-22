@@ -2,37 +2,6 @@
 FileName = main.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : main.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D16
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : main.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Top Overlay
       File : main.GTO
 
@@ -46,20 +15,14 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : main.GTS
+Generating : Bottom Overlay
+      File : main.GBO
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D13
-    D14
-    D15
+    D10
 *************************************************************
 
 *************************************************************
@@ -90,8 +53,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : main.GBL
+Generating : Bottom Paste
+      File : main.GBP
+
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -99,20 +64,6 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D15
-    D16
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : main.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
 *************************************************************
 
 *************************************************************
@@ -128,6 +79,55 @@ Generating : Bottom Solder
 
 Used DCodes :
     D15
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : main.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : main.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : main.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
 *************************************************************
 
 *************************************************************

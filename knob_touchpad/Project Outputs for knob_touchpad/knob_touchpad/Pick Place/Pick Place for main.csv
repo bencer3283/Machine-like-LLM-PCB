@@ -1,0 +1,17 @@
+Altium Designer Pick and Place Locations
+C:\Mac\Home\Documents\Fall 25\Thesis\hci\pcb\knob_touchpad\Project Outputs for knob_touchpad\knob_touchpad\Pick Place\Pick Place for main.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/04/26
+Time:       21:57
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Manufacturer_Part_Number"
+"LED1","BottomLayer","ws2816a-2121","35.3140","22.6060","0","WS2816A-2121"
+"J1","BottomLayer","CONN_503480-0540_MOL","17.9253","27.0499","225","5034800540"
+"D2","BottomLayer","SODFL1608X70N","15.8750","30.2260","315","BAS70KFILM"
+"D1","BottomLayer","SODFL1608X70N","14.6050","28.9560","315","BAS70KFILM"

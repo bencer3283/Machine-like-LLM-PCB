@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=BAS70KFILM
+PartCategory=Schottky Diode
+PackageCategory=Small Outline Diode Flat Lead
+PinCount=2
+Version=2.1
+Released=2020-04-18 02:53:43
+Downloaded=2026-04-20 03:41:27
+3D=Y

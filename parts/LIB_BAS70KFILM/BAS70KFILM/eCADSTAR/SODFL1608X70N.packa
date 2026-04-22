@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "BAS70KFILM"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-04-18-02:53:43)
+    (mountForm default
+        (footprintRef "SODFL1608X70N")
+        (spec "System")
+    )
+)

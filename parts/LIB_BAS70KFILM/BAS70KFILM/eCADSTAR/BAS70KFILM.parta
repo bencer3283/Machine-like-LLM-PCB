@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_424292"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-04-18-02:53:43)
+    (utime 2026-01-08-14:31:13)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "BAS70KFILM")
+)
+
+
+(pinAssign "ECS_424292"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-04-18-02:53:43)
+    (utime 2026-01-08-14:31:13)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_424292")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "BAS70KFILM")
+)
+
+
+(part "BAS70KFILM"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-04-18-02:53:43)
+    (utime 2026-01-08-14:31:13)
+    (packageRef "BAS70KFILM")
+    (pinAssignRef "ECS_424292")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "STMicroelectronics BAS70KFILM, SMT Schottky Diode, 70V 70mA, 2-Pin SOD-523")
+    (property "Manufacturer_Name" "STMicroelectronics")
+    (property "Manufacturer_Part_Number" "BAS70KFILM")
+    (property "Mouser_Part_Number" "511-BAS70KFILM")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/BAS70KFILM?qs=jZi1jxfVU95GtldeDT2NyQ%3D%3D")
+    (property "Arrow_Part_Number" "BAS70KFILM")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/bas70kfilm/stmicroelectronics?region=nac")
+    (property "Datasheet_Link" "https://www.st.com/resource/en/datasheet/bas70.pdf")
+    (property "compAreaTopHeight" 0.7)
+)
+
+
