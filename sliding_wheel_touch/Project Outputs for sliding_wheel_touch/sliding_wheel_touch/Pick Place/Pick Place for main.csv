@@ -1,16 +1,17 @@
 Altium Designer Pick and Place Locations
-C:\Mac\Home\Documents\Fall 25\Thesis\hci\pcb\sliding_wheel_touch\Project Outputs for sliding_wheel_touch\sliding_wheel_touch\Pick Place\Pick Place for main.csv
+C:\Users\Ben\Desktop\Machine-like-LLM-PCB\sliding_wheel_touch\Project Outputs for sliding_wheel_touch\sliding_wheel_touch\Pick Place\Pick Place for main.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       21/04/26
-Time:       21:38
-Revision:   Not in VersionControl
+Date:       22/04/26
+Time:       20:58
+Revision:   c94d21ec73847b66917b08e1a91be1860ac2cc79
 Variant:    No variations
 Units used: mm
 
 "Designator","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Manufacturer_Part_Number"
+"U2","TopLayer","","115.1704","22.3460","0","TPSM84338RCJR"
 "R17","TopLayer","RESC1005X35N","124.6000","34.4000","90","RT0402BRD0710KL"
 "R16","TopLayer","RESC1005X35N","129.4000","44.4000","180","RT0402BRD0710KL"
 "J5","TopLayer","CONN_503480-0540_MOL","57.7468","19.5532","225","5034800540"
@@ -51,7 +52,6 @@ Units used: mm
 "C23#1","TopLayer","CAPC1005X55N","6.3000","39.6000","270","UMK105B7104KVHF"
 "C22#2","TopLayer","CAPC1005X55N","47.0000","15.5000","270","GRM155R60J475M"
 "C22#1","TopLayer","CAPC1005X55N","5.2000","39.6000","270","GRM155R60J475M"
-"U2","TopLayer","RCJ0009A-MFG","115.1704","22.3460","0","TPSM84338RCJR"
 "U1","TopLayer","QFN50P300X300X100-13N-D","124.8824","24.3990","0","TCPP01-M12"
 "SW1","TopLayer","B3U3000PB","136.5979","55.0021","315","B3U-3100P-B"
 "R5","TopLayer","RC0603N_YAG","112.0000","24.2000","90","RT0603BRD0710KL"
