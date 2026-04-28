@@ -4,9 +4,9 @@ C:\Users\Ben\Desktop\Machine-like-LLM-PCB\sliding_wheel_touch\Project Outputs fo
 ========================================================================================================================
 File Design Information:
 
-Date:       22/04/26
-Time:       20:58
-Revision:   c94d21ec73847b66917b08e1a91be1860ac2cc79
+Date:       28/04/26
+Time:       10:57
+Revision:   9de5fcceed6cd3fae7f04776cc318e81c57c559b
 Variant:    No variations
 Units used: mm
 
@@ -59,7 +59,7 @@ Units used: mm
 "R3","TopLayer","RC0603N_YAG","127.2774","22.0360","270","RT0603BRE07475RL"
 "R2","TopLayer","RC0603N_YAG","110.2214","22.4170","90","RT0603BRD0745K3L"
 "R1","TopLayer","RC0603N_YAG","128.9284","22.0360","90","RT0603BRD0710KL"
-"Q1","TopLayer","U-DFN2020-6_(Type_F)","123.9600","21.0200","90","DMT35M4LFDF"
+"Q1","TopLayer","U-DFN2020-6_(TYPE_F)","123.9600","21.0200","90","DMT35M4LFDF"
 "J1","TopLayer","009159010061911","138.5000","44.2000","270",""
 "J0","TopLayer","2171750001_MOL","136.1600","24.2800","90","2171750001"
 "D1","TopLayer","QFN1610_STM","131.9000","21.1000","90","ESDA25P35-1U1M"
